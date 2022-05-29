@@ -1,0 +1,16 @@
+.image{
+    height:75vh;
+  
+}
+.button_prev{
+    position: absolute;
+    top:0 !important;
+    bottom:20rem!important;
+
+}
+.button_next{
+    position: absolute;
+    top:0 !important;
+    bottom:20rem!important;
+
+}

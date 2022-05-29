@@ -1,0 +1,15 @@
+.image{
+   width: 75%;
+   height: 5rem;
+   margin:0.2rem;
+}
+.image:hover{
+  border: 2px solid #2343BB;  
+  padding: 0.2rem;
+  cursor: pointer;
+}
+.bigImage{
+    width: 100%;
+    
+    height: 22rem;
+}
